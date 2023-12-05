@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.navLink {
+  text-decoration: none;
+  color: #000000;
+}
+
+.navLink.active {
+  color: #ffffff;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
